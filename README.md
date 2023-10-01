@@ -5,10 +5,13 @@
 
 주어진 시간 안에 사용자를 위한 기능을 개발하고, 남은 시간에는 사용자의 좋은 경험을 위해 현 구조에서 더 나은 설계를 고민합니다.
 
-### Resume
-[![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://www.notion.so/Resume-e25d15403a1a4b69b7b534b779027ee9)
+
 
 <div align=center>
+### Resume
+
+   [![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://www.notion.so/Resume-e25d15403a1a4b69b7b534b779027ee9)
+
 
 ### Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
