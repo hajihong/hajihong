@@ -7,7 +7,7 @@
 
 ## 📁 Resume
 
-[![Notion Badge](https://img.shields.io/badge/-Portfolio-000000?logo=Notion)](https://www.notion.so/Resume-e25d15403a1a4b69b7b534b779027ee9)
+[![Notion Badge](https://img.shields.io/badge/-Resume-000000?logo=Notion)](https://www.notion.so/Resume-e25d15403a1a4b69b7b534b779027ee9)
 
 ## 🧳 Career
 
