@@ -16,7 +16,7 @@
 💬Career :
 
 - *20.12.23. ~ 21.05.30*
-  - **Jeonung IT(https://smartdoctor.cc/?gclid=Cj0KCQjwjt-oBhDKARIsABVRB0ynd_dKMIyCDlN9ORIIUhz3A5VpTojLyTMPKjZc70al0OuDUYz_FysaAolHEALw_wcB), Backend Developer**
+  - **Jeonung IT, Backend Developer**
   - **Yeogiya Service**
 
 
