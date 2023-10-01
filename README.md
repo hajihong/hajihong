@@ -5,20 +5,22 @@
 
 주어진 시간 안에 사용자를 위한 기능을 개발하고, 남은 시간에는 사용자의 좋은 경험을 위해 현 구조에서 더 나은 설계를 고민합니다.
 
-💬Name : **JI HONG HA**
+Name : **JI HONG HA**
 
-💬Birth : **1996.03.19**
+Birth : **1996.03.19**
 
-💬Job : **Backend Developer**
+Job : **Backend Developer**
 
-💬Education : **Inha University**
+Education : **Inha University**
 
-💬Career :
+Career :
 
 - *20.12.23. ~ 21.05.30*
   - **Jeonung IT, Backend Developer**
   - **Yeogiya Service**
 
+
+Tech Skills:
 
 <div align=center>
 
